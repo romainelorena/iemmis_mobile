@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IEMMIS</string>
+    <string name="note">
+        1. Make the PC name GEPISTOLA-PC for PC, GGOROSIN-LC for Laptop.\n
+        2. Make an Administrator Account for doh7_it w/password.\n
+        3. Make an Administrator Account for the PC or Laptop End User\n
+        4. Enable Remote Connection for doh7_it\n
+        5. Join Domain (doh7.net)
+    </string>
+</resources>
